@@ -1,0 +1,15 @@
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1_Homework/Exercise01_MaxMin/bin/Debug/net6.0/Exercise01_MaxMin
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1_Homework/Exercise01_MaxMin/bin/Debug/net6.0/Exercise01_MaxMin.deps.json
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1_Homework/Exercise01_MaxMin/bin/Debug/net6.0/Exercise01_MaxMin.runtimeconfig.json
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1_Homework/Exercise01_MaxMin/bin/Debug/net6.0/Exercise01_MaxMin.dll
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1_Homework/Exercise01_MaxMin/bin/Debug/net6.0/Exercise01_MaxMin.pdb
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1_Homework/Exercise01_MaxMin/obj/Debug/net6.0/Exercise01_MaxMin.csproj.AssemblyReference.cache
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1_Homework/Exercise01_MaxMin/obj/Debug/net6.0/Exercise01_MaxMin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1_Homework/Exercise01_MaxMin/obj/Debug/net6.0/Exercise01_MaxMin.AssemblyInfoInputs.cache
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1_Homework/Exercise01_MaxMin/obj/Debug/net6.0/Exercise01_MaxMin.AssemblyInfo.cs
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1_Homework/Exercise01_MaxMin/obj/Debug/net6.0/Exercise01_MaxMin.csproj.CoreCompileInputs.cache
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1_Homework/Exercise01_MaxMin/obj/Debug/net6.0/Exercise01_MaxMin.dll
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1_Homework/Exercise01_MaxMin/obj/Debug/net6.0/refint/Exercise01_MaxMin.dll
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1_Homework/Exercise01_MaxMin/obj/Debug/net6.0/Exercise01_MaxMin.pdb
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1_Homework/Exercise01_MaxMin/obj/Debug/net6.0/Exercise01_MaxMin.genruntimeconfig.cache
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1_Homework/Exercise01_MaxMin/obj/Debug/net6.0/ref/Exercise01_MaxMin.dll

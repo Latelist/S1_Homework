@@ -1,0 +1,15 @@
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1_Homework/Exercise02_MaxFromThree/bin/Debug/net6.0/Exercise02_MaxFromThree
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1_Homework/Exercise02_MaxFromThree/bin/Debug/net6.0/Exercise02_MaxFromThree.deps.json
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1_Homework/Exercise02_MaxFromThree/bin/Debug/net6.0/Exercise02_MaxFromThree.runtimeconfig.json
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1_Homework/Exercise02_MaxFromThree/bin/Debug/net6.0/Exercise02_MaxFromThree.dll
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1_Homework/Exercise02_MaxFromThree/bin/Debug/net6.0/Exercise02_MaxFromThree.pdb
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1_Homework/Exercise02_MaxFromThree/obj/Debug/net6.0/Exercise02_MaxFromThree.csproj.AssemblyReference.cache
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1_Homework/Exercise02_MaxFromThree/obj/Debug/net6.0/Exercise02_MaxFromThree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1_Homework/Exercise02_MaxFromThree/obj/Debug/net6.0/Exercise02_MaxFromThree.AssemblyInfoInputs.cache
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1_Homework/Exercise02_MaxFromThree/obj/Debug/net6.0/Exercise02_MaxFromThree.AssemblyInfo.cs
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1_Homework/Exercise02_MaxFromThree/obj/Debug/net6.0/Exercise02_MaxFromThree.csproj.CoreCompileInputs.cache
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1_Homework/Exercise02_MaxFromThree/obj/Debug/net6.0/Exercise02_MaxFromThree.dll
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1_Homework/Exercise02_MaxFromThree/obj/Debug/net6.0/refint/Exercise02_MaxFromThree.dll
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1_Homework/Exercise02_MaxFromThree/obj/Debug/net6.0/Exercise02_MaxFromThree.pdb
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1_Homework/Exercise02_MaxFromThree/obj/Debug/net6.0/Exercise02_MaxFromThree.genruntimeconfig.cache
+/Users/salatzelenyj/Desktop/GeekBrains/C#/S1_Homework/Exercise02_MaxFromThree/obj/Debug/net6.0/ref/Exercise02_MaxFromThree.dll
